@@ -1,3 +1,4 @@
+
 # Image-Acquisition-from-Web-Camera
 ## Aim:
  
@@ -98,16 +99,15 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
-![img1](https://github.com/vijay21500269/Image-acquisition-from-web-camera/blob/main/vj%20dip0.png)
-
+![vj dip0](https://user-images.githubusercontent.com/94381788/226429415-0b1ad718-15fc-4ed8-b40e-d7d86caba069.png)
 ### ii) Display the video
-![exp21 ](https://github.com/vijay21500269/Image-acquisition-from-web-camera/blob/main/vj%20dip1.png)
+![vj dip1](https://user-images.githubusercontent.com/94381788/226429433-11dd4bda-2b1d-4625-9e28-d333ec3719a1.png)
 
 ### iii) Display the video by resizing the window
-![exp22](https://github.com/vijay21500269/Image-acquisition-from-web-camera/blob/main/vj%20dip2.png)
+![vj dip2](https://user-images.githubusercontent.com/94381788/226429438-69b4e6eb-772a-4e6e-8da1-d41ae7be1ced.png)
 
 ### iv) Rotate and display the video
-![exp23](https://github.com/vijay21500269/Image-acquisition-from-web-camera/blob/main/vj%20dip3.png)
+![vj dip3](https://user-images.githubusercontent.com/94381788/226429443-441a9761-a014-4ea8-8f3f-efe3bc0ff930.png)
 
 
 ## Result:
