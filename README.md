@@ -104,10 +104,10 @@ cv2.destroyAllWindows()
 ![vj dip1](https://user-images.githubusercontent.com/94381788/226429433-11dd4bda-2b1d-4625-9e28-d333ec3719a1.png)
 
 ### iii) Display the video by resizing the window
-![vj dip2](https://user-images.githubusercontent.com/94381788/226429438-69b4e6eb-772a-4e6e-8da1-d41ae7be1ced.png)
+![vj dip3](https://user-images.githubusercontent.com/94381788/226429443-441a9761-a014-4ea8-8f3f-efe3bc0ff930.png)
 
 ### iv) Rotate and display the video
-![vj dip3](https://user-images.githubusercontent.com/94381788/226429443-441a9761-a014-4ea8-8f3f-efe3bc0ff930.png)
+![vj dip2](https://user-images.githubusercontent.com/94381788/226429438-69b4e6eb-772a-4e6e-8da1-d41ae7be1ced.png)
 
 
 ## Result:
