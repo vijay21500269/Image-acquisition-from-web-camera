@@ -27,8 +27,8 @@ Rotate the image using cv2.rotate(smaller_frame,cv2.cv2.ROTATE_180).
 
 ## Program:
 ``` 
-### Developed By: M Parshwanath
-### Register No: 212221230073
+### Developed By: R.Vijay
+### Register No: 212221230121
 ```
 ```
 ## i) Write the frame as JPG file
@@ -98,16 +98,16 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
-![pic jpg](img.png)
+![pic jpg]()
 
 ### ii) Display the video
-![exp21 ](img1.png)
+![exp21 ]()
 
 ### iii) Display the video by resizing the window
-![exp22](img2.png)
+![exp22]()
 
 ### iv) Rotate and display the video
-![exp23](img3.png)
+![exp23]()
 
 
 ## Result:
